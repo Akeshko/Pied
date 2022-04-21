@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>pp</title>
+  <link rel="stylesheet" type="text/css" href="style.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
+  <script src="https://kit.fontawesome.com/c184c24105.js" crossorigin="anonymous"></script>
+  <link rel="icon" href="logo.png" type="image/icon type">
+
+
+</head>
+
+<body>
+  <a href="index.php"><img class="logo" src="logo.png" alt="logo" /></a>
+
+
+
+  <div class="cont">
+    <div class="form sign-in">
+      <h2>Sign In</h2>
+      <form onSubmit="return validate();" action="login.php" method="POST" autocomplete="on" name="in">
+        <label>
+          <span>Email Address</span>
+          <input type="text" name="em" id="em">
+          <i class="fa fa-check" aria-hidden="true"></i><i class="fa fa-exclamation" aria-hidden="true"></i>
+        </label><small class="msg">Error Message</small>
+        <label>
+          <span>Password</span>
+          <input type="password" name="pass" id="pass">
+          <i class="fa fa-check" aria-hidden="true"></i><i class="fa fa-exclamation" aria-hidden="true"></i>
+        </label><small class="msg">Error Message</small>
+        <br>
+        <input type="submit" class="submit" value="Submit">
+      </form>
+      <p class="forgot-pass">Forgot Password ?</p>
+
+      <div class="social-media">
+
+        <i class="fa fa-facebook fa-2x" aria-hidden="true"></i>
+        <i class="fa fa-instagram fa-2x" aria-hidden="true"></i>
+        <i class="fa fa-twitch fa-2x" aria-hidden="true"></i>
+        <i class="fa fa-twitter fa-2x" aria-hidden="true"></i>
+        <i class="fa fa-youtube-play fa-2x" aria-hidden="true"></i>
+
+      </div>
+    </div>
+
+    <div class="sub-cont">
+      <div class="img">
+        <div class="img-text m-up">
+          <h2>New here?</h2>
+          <p>Sign up and discover great amount of new opportunities!</p>
+        </div>
+        <div class="img-text m-in">
+          <h2>One of us?</h2>
+          <p>If you already has an account, just sign in. We've missed you!</p>
+        </div>
+        <div class="img-btn">
+          <span class="m-up">Sign Up</span>
+        </div>
+        <br>
+        <div class="img-btn">
+          <span class="m-in">Sign In</span>
+        </div>
+      </div>
+      <div class="form sign-up">
+        <h2>Sign Up</h2>
+        <form onsubmit="return validate1();" action="sign.php" method="post" autocomplete="on">
+          <label>
+            <span>Name</span>
+            <input type="text" id="name1" name="name1">
+            <i class="fa fa-check" aria-hidden="true"></i><i class="fa fa-exclamation" aria-hidden="true"></i>
+          </label><small class="msg">Error Message</small>
+          <label>
+            <span>Email</span>
+            <input type="text" id="email1" name="email1">
+            <i class="fa fa-check" aria-hidden="true"></i><i class="fa fa-exclamation" aria-hidden="true"></i>
+          </label><small class="msg">Error Message</small>
+          <label>
+            <span>Password</span>
+            <input type="password" id="password1" name="password1">
+            <i class="fa fa-check" aria-hidden="true"></i><i class="fa fa-exclamation" aria-hidden="true"></i>
+          </label><small class="msg">Error Message</small>
+          <label>
+            <span>Confirm Password</span>
+            <input type="password" id="password11" name="password11">
+            <i class="fa fa-check" aria-hidden="true"></i><i class="fa fa-exclamation" aria-hidden="true"></i>
+          </label><small class="msg">Error Message</small>
+          <br>
+          <input type="submit" class="submit" value="Submit">
+        </form>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    var bn = document.getElementsByClassName('img-btn')[0];
+    var bn1 = document.getElementsByClassName('img-btn')[1];
+    bn.addEventListener('click', transi);
+
+    function transi() {
+      document.querySelector('.cont').classList.toggle('s-signup')
+      document.getElementsByClassName('sign-in')[0].style.visibility = 'hidden';
+    }
+    bn1.addEventListener('click', transi1);
+
+    function transi1() {
+      document.querySelector('.cont').classList.toggle('s-signup')
+      document.getElementsByClassName('sign-in')[0].style.visibility = 'visible';
+    }
+
+    function validate() {
+
+      var email = document.getElementById("em");
+      var pass = document.getElementById("pass");
+
+      if (email.value == "" || pass.value == "") {
+        alert('Please Fill All Fields');
+        return false;
+      }
+      var mailformat = /^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/;
+
+      if (email.value.match(mailformat)) {
+        document.getElementsByClassName('fa-check')[0].style.visibility = 'visible';
+        document.getElementsByClassName('fa-exclamation')[0].style.visibility = 'hidden';
+      document.getElementsByClassName('msg')[0].style.visibility = 'hidden';
+
+      } else {
+        document.getElementsByClassName('fa-exclamation')[0].style.visibility = 'visible';
+        document.getElementsByClassName('msg')[0].style.visibility = 'visible';
+        document.getElementsByClassName('fa-check')[0].style.visibility = 'hidden';
+        email.focus();
+        return false;
+      }
+
+      var passcode = /^[0-9a-zA-Z]+$/;
+
+      if (pass.value.match(passcode)) {
+        document.getElementsByClassName('fa-check')[1].style.visibility = 'visible';
+        document.getElementsByClassName('fa-exclamation')[1].style.visibility = 'hidden';
+      document.getElementsByClassName('msg')[1].style.visibility = 'hidden';
+      } else {
+        document.getElementsByClassName('fa-exclamation')[1].style.visibility = 'visible';
+        document.getElementsByClassName('msg')[1].style.visibility = 'visible';
+        document.getElementsByClassName('fa-check')[1].style.visibility = 'hidden';
+    
+        pass.focus();
+        return false;
+      }
+      
+    }
+
+    function validate1() {
+      var name1 = document.getElementById("name1");
+      var email1 = document.getElementById("email1");
+      var pass1 = document.getElementById("password1");
+      var pass11 = document.getElementById("password11");
+
+      if (name1.value == "" || email1.value == "" || pass1.value == "" || pass11.value == "") {
+        alert("Please Fill All Fields");
+        return false;
+      }
+
+      var letters = /^[A-Za-z]+$/;
+
+      if (name1.value.match(letters)) {
+        document.getElementsByClassName('fa-check')[2].style.visibility = 'visible';
+        document.getElementsByClassName('fa-exclamation')[2].style.visibility = 'hidden';
+      document.getElementsByClassName('msg')[2].style.visibility = 'hidden';
+      } else {
+        document.getElementsByClassName('fa-exclamation')[2].style.visibility = 'visible';
+        document.getElementsByClassName('msg')[2].style.visibility = 'visible';
+        document.getElementsByClassName('fa-check')[2].style.visibility = 'hidden';
+    
+        name1.focus();
+        return false;
+      }
+
+      var mailformat = /^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/;
+
+
+
+      if (email1.value.match(mailformat)) { document.getElementsByClassName('fa-check')[3].style.visibility = 'visible';
+        document.getElementsByClassName('fa-exclamation')[3].style.visibility = 'hidden';
+      document.getElementsByClassName('msg')[3].style.visibility = 'hidden';
+      } else {
+        document.getElementsByClassName('fa-exclamation')[3].style.visibility = 'visible';
+        document.getElementsByClassName('msg')[3].style.visibility = 'visible';
+        document.getElementsByClassName('fa-check')[3].style.visibility = 'hidden';
+        email1.focus();
+        return false;
+      }
+
+      var passcode = /^[0-9a-zA-Z]+$/;
+
+
+      if (pass1.value.match(passcode)) { document.getElementsByClassName('fa-check')[4].style.visibility = 'visible';
+        document.getElementsByClassName('fa-exclamation')[4].style.visibility = 'hidden';
+      document.getElementsByClassName('msg')[1].style.visibility = 'hidden';
+      } else {
+        document.getElementsByClassName('fa-exclamation')[4].style.visibility = 'visible';
+        document.getElementsByClassName('msg')[4].style.visibility = 'visible';
+        document.getElementsByClassName('fa-check')[4].style.visibility = 'hidden';
+        pass1.focus();
+        return false;
+      }
+
+      if (pass11.value.match(passcode)) { 
+        document.getElementsByClassName('fa-check')[5].style.visibility = 'visible';
+        document.getElementsByClassName('fa-exclamation')[5].style.visibility = 'hidden';
+      document.getElementsByClassName('msg')[5].style.visibility = 'hidden';
+      } else {
+        document.getElementsByClassName('fa-exclamation')[5].style.visibility = 'visible';
+        document.getElementsByClassName('msg')[5].style.visibility = 'visible';
+        document.getElementsByClassName('fa-check')[5].style.visibility = 'hidden';
+        pass11.focus();
+        return false;
+      }
+      
+      
+
+      if (pass1 !== pass11) { 
+        document.getElementsByClassName('fa-exclamation')[6].style.visibility = 'visible';
+        document.getElementsByClassName('msg')[6].style.visibility = 'visible';
+        document.getElementsByClassName('fa-check')[6].style.visibility = 'hidden';
+        pass11.focus();
+        return false;
+       
+        
+      } else {
+        document.getElementsByClassName('fa-check')[6].style.visibility = 'visible';
+        document.getElementsByClassName('fa-exclamation')[6].style.visibility = 'hidden';
+      document.getElementsByClassName('msg')[6].style.visibility = 'hidden';
+      
+        }
+    }
+  </script>
+</body>
+
+</html>

@@ -1,0 +1,642 @@
+{
+    "Actors": [
+      {
+        "name": "Joe Russo",
+        "born":"18 July 1971",
+        "nation": "Syracuse, NY",
+        "job": "Director",
+        "img": "https://www.gstatic.com/tv/thumb/persons/303029/303029_v9_bb.jpg"
+      },
+      { 
+        "name": "Anthony Russo",
+        "born":"February 3, 1970",
+        "nation": "Syracuse, NY",
+        "job": "Director",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Anthony_Russo_%2848385343301%29_%28cropped%29.jpg"
+      },
+      { 
+        "name": "Christopher Markus",
+        "born":"January 2 1970",
+        "nation": "California, U.S",
+        "job": "Writerr",
+        "img": "https://www.gstatic.com/tv/thumb/persons/304207/304207_v9_bb.jpg"
+      },
+      { 
+        "name": "Stephen McFeely",
+        "born":"January 2, 1970",
+        "nation": "California, U.S",
+        "job": "Writer",
+        "img": "https://www.gstatic.com/tv/thumb/persons/304208/304208_v9_ba.jpg"
+      },
+      { 
+        "name": "Kevin Fiege",
+        "born":"June 2, 1973",
+        "nation": "Massachusetts, U.S",
+        "job": "Producer",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Kevin_Feige_%2848462887397%29_%28cropped%29.jpg"
+      },
+      { 
+        "name": "Jeffrey Ford",
+        "born":"November 8, 1955",
+        "nation": "West Islip, New York",
+        "job": "Editor",
+        "img": "https://m.media-amazon.com/images/M/MV5BMDlhNGY4Y2MtMjA5Ny00ZmNkLTgwZTktNjllYjhlMzlhZjNkXkEyXkFqcGdeQXVyMTc0OTcxNA@@._V1_UY317_CR130,0,214,317_AL_.jpg"
+      },
+      { 
+        "name": "Matthew Schmidt",
+        "born":" December 14, 1974",
+        "nation": "Huntington, New York",
+        "job": "Editor",
+        "img": "https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/f/f5/Matthew_Schmidt.jpg/revision/latest/top-crop/width/360/height/450?cb=20140610202644"
+      },
+      { 
+        "name": "Robert Downey Jr",
+        "born":"April 4, 1965",
+        "nation": "New York City, New York, U.S",
+        "job": "Actor",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Robert_Downey_Jr_2014_Comic_Con_%28cropped%29.jpg/330px-Robert_Downey_Jr_2014_Comic_Con_%28cropped%29.jpg"
+      },
+      { 
+        "name": "Chris Evans",
+        "born":"June 13, 1981",
+        "nation": "Massachusetts, U.S",
+        "job": "Actor",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Chris_Evans_in_2019.jpg/330px-Chris_Evans_in_2019.jpg"
+      },
+      { 
+        "name": "Mark Ruffalo",
+        "born":"November 22, 1967 ",
+        "nation": "Wisconsin, U.S.",
+        "job": "Actor",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Mark_Ruffalo_%2836201774756%29_%28cropped%29.jpg/330px-Mark_Ruffalo_%2836201774756%29_%28cropped%29.jpg"
+      },
+      { 
+        "name": "Chris Hemsworth",
+        "born":"11 August 1983",
+        "nation": "Victoria, Australia",
+        "job": "Actor",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Chris_Hemsworth_by_Gage_Skidmore_2_%28cropped%29.jpg/330px-Chris_Hemsworth_by_Gage_Skidmore_2_%28cropped%29.jpg"
+      },
+      { 
+        "name": "Scarlett Johansson",
+        "born":"November 22, 1984",
+        "nation": "New York City, U.S.",
+        "job": "Actor",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Scarlett_Johansson_by_Gage_Skidmore_2_%28cropped%29.jpg/330px-Scarlett_Johansson_by_Gage_Skidmore_2_%28cropped%29.jpg"
+      },
+      { 
+        "name": " Don Cheadle",
+        "born":"November 29, 1964",
+        "nation": "Missouri, U.S.",
+        "job": "Actor",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Don_Cheadle_-_2018.jpg/330px-Don_Cheadle_-_2018.jpg"
+      },
+      { 
+        "name": "Jeremy Renner",
+        "born":"January 7, 1971",
+        "nation": "California, U.S.",
+        "job": "Actor",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Jeremy_Renner_by_Gage_Skidmore.jpg/330px-Jeremy_Renner_by_Gage_Skidmore.jpg"
+      },
+      { 
+        "name": "Paul Rudd",
+        "born":"April 6, 1969",
+        "nation": "New Jersey, U.S.",
+        "job": "Actor",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Paul_Rudd_Ant-Man_%26_The_Wasp_premiere.jpg/330px-Paul_Rudd_Ant-Man_%26_The_Wasp_premiere.jpg"
+      },
+      { 
+        "name": "Benedict Cumberbatch",
+        "born":"19 July 1976",
+        "nation": "London, England",
+        "job": "Actor",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Benedict_Cumberbatch_at_the_London_Evening_Standard_Theatre_Awards_2014.jpg/330px-Benedict_Cumberbatch_at_the_London_Evening_Standard_Theatre_Awards_2014.jpg"
+      },
+      { 
+        "name": "Chadwick Boseman",
+        "born":"November 29, 1976",
+        "nation": "California, U.S.",
+        "job": "Actor",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Chadwick_Boseman_%2828017825484%29_%28cropped_2%29.jpg/330px-Chadwick_Boseman_%2828017825484%29_%28cropped_2%29.jpg"
+      },
+      { 
+        "name": "Tom Holland",
+        "born":"1 June 1996",
+        "nation": "London, England",
+        "job": "Actor",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Tom_Holland_by_Gage_Skidmore.jpg/330px-Tom_Holland_by_Gage_Skidmore.jpg"
+      },
+      { 
+        "name": "Zoe Saldana",
+        "born":"June 19, 1978",
+        "nation": "New Jersey, U.S.",
+        "job": "Actor",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Zoe_Saldana_%2828584925641%29_%28cropped_2%29.jpg/330px-Zoe_Saldana_%2828584925641%29_%28cropped_2%29.jpg"
+      },
+      { 
+        "name": "Karen Gilian",
+        "born":"28 November 1987",
+        "nation": "Scotland, UK",
+        "job": "Actor",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Karen_Gillan_Photo_Op_GalaxyCon_Minneapolis_2019.jpg/330px-Karen_Gillan_Photo_Op_GalaxyCon_Minneapolis_2019.jpg"
+      },
+      { 
+        "name": "Brie_Larson ",
+        "born":"November 22, 1984",
+        "nation": "California, U.S.",
+        "job": "Actor",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Captain_Marvel_trailer_at_the_National_Air_and_Space_Museum_4_%28cropped%29.jpg/330px-Captain_Marvel_trailer_at_the_National_Air_and_Space_Museum_4_%28cropped%29.jpg"
+      },
+      { 
+        "name": "Anthony Mackie",
+        "born":"September 23, 1978",
+        "nation": "Louisiana, U.S",
+        "job": "Actor",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Anthony_Mackie_by_Gage_Skidmore_2.jpg/330px-Anthony_Mackie_by_Gage_Skidmore_2.jpg"
+      },
+      { 
+        "name": "Christopher Nolan",
+        "born":"30 July 1970 ",
+        "nation": "London, England",
+        "job": "Director,Writer,Producer",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Christopher_Nolan_Cannes_2018.jpg/330px-Christopher_Nolan_Cannes_2018.jpg"
+      },
+      { 
+        "name": "Jonathan Nolan",
+        "born":"6 June 1976",
+        "nation": "London, England",
+        "job": "Writer",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Jonathan_Nolan_by_Gage_Skidmore.jpg/330px-Jonathan_Nolan_by_Gage_Skidmore.jpg"
+      },
+      { 
+        "name": "Charles Roven",
+        "born":"August 2, 1949",
+        "nation": "Amercian",
+        "job": "Producer",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Charles_Roven_%28cropped%29.JPG/330px-Charles_Roven_%28cropped%29.JPG"
+      },
+      { 
+        "name": "Emma Thomas",
+        "born":"9 December 1971",
+        "nation": "London, England",
+        "job": "Producer",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Emma_Thomas_2.jpg/330px-Emma_Thomas_2.jpg"
+      },
+      { 
+        "name": "Lee Smith",
+        "born":"June 10, 1960",
+        "nation": " Sydney,Australia",
+        "job": "Editor",
+        "img": "https://m.media-amazon.com/images/M/MV5BMTc2NTI1MzE1M15BMl5BanBnXkFtZTcwOTQ3NDQzMg@@._V1_UY317_CR73,0,214,317_AL__QL50.jpg"
+      },
+      { 
+        "name": "Christian Bale",
+        "born":"30 January 1974",
+        "nation": " Pembrokeshire, Wales",
+        "job": "Actor",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Christian_Bale-7837.jpg/330px-Christian_Bale-7837.jpg"
+      },
+      { 
+        "name": "Heath Ledger",
+        "born":"4 April 1979",
+        "nation": "New York, U.S",
+        "job": "Actor",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Heath_Ledger_%282%29.jpg/330px-Heath_Ledger_%282%29.jpg"
+      },
+      { 
+        "name": "Aaron Eckhart",
+        "born":"March 12, 1968",
+        "nation": "California, U.S.",
+        "job": "Actor",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Aaron_Eckhart_%2829830286295%29_%28cropped%29.jpg/330px-Aaron_Eckhart_%2829830286295%29_%28cropped%29.jpg"
+      },
+      { 
+        "name": "Michael Caine",
+        "born":"14 March 1933",
+        "nation": "London, England",
+        "job": "Actor",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Sir_Michael_Caine%2C_28th_EFA_Awards_2015%2C_Berlin_%28cropped%29.jpg"
+      },
+      { 
+        "name": "Maggie Gyllenhaal",
+        "born":"November 16, 1977",
+        "nation": "New York, U.S.",
+        "job": "Actor",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Maggie_Gyllenhaal_Berlinale_2017.jpg/330px-Maggie_Gyllenhaal_Berlinale_2017.jpg"
+      },
+      { 
+        "name": "Gary Oldman",
+        "born":"21 March 1958",
+        "nation": "London, England",
+        "job": "Actor",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Gary_Oldman_in_2017_%2836334517524%29.jpg/330px-Gary_Oldman_in_2017_%2836334517524%29.jpg"
+      },
+      { 
+        "name": "Morgan Freeman",
+        "born":"June 1, 1937",
+        "nation": "Tennessee, U.S.",
+        "job": "Actor",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Morgan_Freeman_Deauville_2018.jpg/330px-Morgan_Freeman_Deauville_2018.jpg"
+      },
+      { 
+        "name": "Lynda Obst",
+        "born":"April 14, 1950",
+        "nation": "New York, U.S.",
+        "job": "Producer",
+        "img": "https://www.gstatic.com/tv/thumb/persons/72986/72986_v9_bb.jpg"
+      },
+      { 
+        "name": "Matthew McConaughey",
+        "born":"November 4, 1969 ",
+        "nation": "Texas, U.S.",
+        "job": "Actor",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Matthew_McConaughey_2011.jpg/330px-Matthew_McConaughey_2011.jpg"
+      },
+      { 
+        "name": "Mackenzie Foy ",
+        "born":"November 10, 2000",
+        "nation": "California, U.S.",
+        "job": "Actor",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Mackenzie_Foy_Cannes_2015.jpg/330px-Mackenzie_Foy_Cannes_2015.jpg"
+      },
+      { 
+        "name": "Timothée Chalamet",
+        "born":"December 27, 1995",
+        "nation": "New York City, U.S.",
+        "job": "Actor",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Timoth%C3%A9e_Chalamet_in_2018_%28cropped%29.jpg/330px-Timoth%C3%A9e_Chalamet_in_2018_%28cropped%29.jpg"
+      },
+      { 
+        "name": "Anne Hathaway",
+        "born":"November 12, 1982",
+        "nation": "New York City, U.S.",
+        "job": "Actor",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Anne_Hathaway_in_2017.png/330px-Anne_Hathaway_in_2017.png"
+      },
+      { 
+        "name": "John Lithgow",
+        "born":"October 19, 1945 ",
+        "nation": "New York, U.S.",
+        "job": "Actor",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/5/52/John_Lithgow_at_Met_Opera_Opening_in_2008.jpg"
+      },
+      { 
+        "name": "Wes Bentley",
+        "born":"September 4, 1978",
+        "nation": "Arkansas, U.S.",
+        "job": "Actor",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Wes_Bentley_The_Hunger_Games_premiere.jpg/330px-Wes_Bentley_The_Hunger_Games_premiere.jpg"
+      },
+      { 
+        "name": "Jessica Chastain",
+        "born":"March 24, 1977",
+        "nation": "California, U.S.",
+        "job": "Actor",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Jessica_Chastain_at_2015_Empire_Awards.jpg/330px-Jessica_Chastain_at_2015_Empire_Awards.jpg"
+      },
+      { 
+        "name": "David Leitch,",
+        "born":"February 7, 1970",
+        "nation": "Wisconsin, U.S",
+        "job": "Director",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/David_Leitch_by_Gage_Skidmore.jpg/330px-David_Leitch_by_Gage_Skidmore.jpg"
+      },
+      { 
+        "name": "Rhett Reese",
+        "born":"March 24, 1977",
+        "nation": "California, U.S.",
+        "job": "Writer",
+        "img": "https://m.media-amazon.com/images/M/MV5BMTg5ODk3NDQ2OV5BMl5BanBnXkFtZTgwNDg0NDE1NTM@._V1_UY317_CR29,0,214,317_AL__QL50.jpg"
+      },
+      { 
+        "name": "Paul Wernick  ",
+        "born":"July 24, 1987",
+        "nation": "California, U.S.",
+        "job": "Writer",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Paul_Wernick_by_Gage_Skidmore.jpg/330px-Paul_Wernick_by_Gage_Skidmore.jpg"
+      },
+      { 
+        "name": "Ryan Reynolds",
+        "born":"October 23, 1976",
+        "nation": "British Columbia, Canada",
+        "job": "Actor,Producer",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Deadpool_2_Japan_Premiere_Red_Carpet_Ryan_Reynolds_%28cropped%29.jpg/330px-Deadpool_2_Japan_Premiere_Red_Carpet_Ryan_Reynolds_%28cropped%29.jpg"
+      },
+      { 
+        "name": " Simon Kinberg",
+        "born":"August 2, 1973",
+        "nation": "England, UK",
+        "job": "Producer",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Simon_Kinberg_by_Gage_Skidmore.jpg/330px-Simon_Kinberg_by_Gage_Skidmore.jpg"
+      },
+      { 
+        "name": "Lauren Shuler Donner",
+        "born":"June 23, 1949",
+        "nation": "Ohio, U.S.",
+        "job": "Producer",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Lauren_Shuler_Donner_by_Gage_Skidmore.jpg/330px-Lauren_Shuler_Donner_by_Gage_Skidmore.jpg"
+      },
+      { 
+        "name": "Dirk Westervelt",
+        "born":"-",
+        "nation": "Amercian",
+        "job": "Editor",
+        "img": "https://m.media-amazon.com/images/M/MV5BYmFiYmE0NzEtNDRlNS00MmExLTkxMmUtMjY5YjcxNTQxZTc4XkEyXkFqcGdeQXVyMjIwNDYzMTM@._V1_UY317_CR38,0,214,317_AL__QL50.jpg"
+      },
+      { 
+        "name": "Craig Alpert",
+        "born":"-",
+        "nation": "Amercian",
+        "job": "Editor",
+        "img": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/brent-white-iein012576-24-03-2017-15-25-00.jpg"
+      },
+      { 
+        "name": "Elísabet Ronaldsdóttir",
+        "born":"July 6, 1965",
+        "nation": "Icelandish",
+        "job": "Editor",
+        "img": "https://miro.medium.com/max/713/1*5BH9F3G_0zA_rjhY8VEZig.jpeg"
+      },
+      { 
+        "name": "Josh Brolin",
+        "born":"February 12, 1968",
+        "nation": "California, U.S.",
+        "job": "Actor",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Josh_Brolin_SDCC_2014.jpg/330px-Josh_Brolin_SDCC_2014.jpg"
+      },
+      { 
+        "name": "Morena Baccarin ",
+        "born":"June 2, 1979 ",
+        "nation": "Rio de Janeiro, Brazil",
+        "job": "Actor",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Morena_Baccarin_by_Gage_Skidmore_3.jpg/330px-Morena_Baccarin_by_Gage_Skidmore_3.jpg"
+      },
+      { 
+        "name": "Julian Dennison",
+        "born":"26 October 2002",
+        "nation": "Lower Hutt, New Zealand",
+        "job": "Actor",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Julian_Dennison_2016.jpg/330px-Julian_Dennison_2016.jpg"
+      },
+      { 
+        "name": "Zazie Beetz",
+        "born":"-",
+        "nation": "Berlin, Germany",
+        "job": "Actor",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Zazie_Beetz_by_Gage_Skidmore_%28cropped%29.jpg/330px-Zazie_Beetz_by_Gage_Skidmore_%28cropped%29.jpg"
+      },
+      { 
+        "name": "T.J. Miller",
+        "born":"June 4, 1981 ",
+        "nation": "Colorado, U.S.",
+        "job": "Actor",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/T._J._Miller_by_Gage_Skidmore.jpg/330px-T._J._Miller_by_Gage_Skidmore.jpg"
+      },
+      { 
+        "name": "Leslie Uggams",
+        "born":"May 25, 1943",
+        "nation": "New York, U.S.",
+        "job": "Actor",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Leslie_Uggams_1997.jpg/330px-Leslie_Uggams_1997.jpg"
+      },
+      { 
+        "name": "Karan Soni",
+        "born":"January 8, 1989",
+        "nation": "American",
+        "job": "Actor",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Karan_Soni_by_Gage_Skidmore.jpg/330px-Karan_Soni_by_Gage_Skidmore.jpg"
+      },
+      { 
+        "name": "Shioli Kutsuna",
+        "born":"22 December 1992",
+        "nation": "Sydney, Australia",
+        "job": "Actor",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Deadpool_2_Japan_Premiere_Red_Carpet_Kutsuna_Shiori_%2841734678124%29_%28cropped%29.jpg/330px-Deadpool_2_Japan_Premiere_Red_Carpet_Kutsuna_Shiori_%2841734678124%29_%28cropped%29.jpg"
+      },
+      { 
+        "name": "Brianna Hildebrand",
+        "born":"August 14, 1996",
+        "nation": "Texas, U.S",
+        "job": "Actor",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Brianna_Hildebrand_by_Gage_Skidmore_2.jpg/330px-Brianna_Hildebrand_by_Gage_Skidmore_2.jpg"
+      },
+      { 
+        "name": "Stanley Kubrick",
+        "born":"July 26, 1928",
+        "nation": "American.",
+        "job": "Director,Writer,Producer",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/KubrickForLook_%28cropped%29.jpg/282px-KubrickForLook_%28cropped%29.jpg"
+      },
+      { 
+        "name": "Stephen King",
+        "born":"September 21, 1947 ",
+        "nation": "Maine, U.S.",
+        "job": "Writer",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Stephen_King%2C_Comicon.jpg/330px-Stephen_King%2C_Comicon.jpg"
+      },
+      { 
+        "name": "Robert Fryer",
+        "born":"November 18, 1920",
+        "nation": "California, U.S.",
+        "job": "Producer",
+        "img": "https://assets.mubicdn.net/images/cast_member/81072/image-w240.jpg?1536018968"
+      },
+      { 
+        "name": "Ray Lovejoy",
+        "born":"18 February 1939",
+        "nation": "British ",
+        "job": "Editor",
+        "img": "https://lthumb.lisimg.com/284/7643284.jpg?width=280&sharpen=true"
+      },
+      { 
+        "name": "Jack Nicholson",
+        "born":"April 22, 1937",
+        "nation": "New Jersey, U.S",
+        "job": "Actor",
+        "img": "https://i.pinimg.com/originals/62/4a/8a/624a8a3dbd3b709bd677c73922189326.jpg"
+      },
+      { 
+        "name": "Shelley Duvall",
+        "born":"July 7, 1949",
+        "nation": "Texas, U.S.",
+        "job": "Actor",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Shelley_Duvall_Bernice_Bobs_Her_Hair_1977.JPG/330px-Shelley_Duvall_Bernice_Bobs_Her_Hair_1977.JPG"
+      },
+      { 
+        "name": "Danny Lloyd",
+        "born":"October 13, 1972",
+        "nation": " Illinois, U.S.",
+        "job": "Actor",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzdrXiW4KusFCC5IdqXcg58LWNaOTb7110JA&usqp=CAU"
+      },
+      { 
+        "name": "Scatman Crothers",
+        "born":"May 23, 1910",
+        "nation": "Indiana, U.S.",
+        "job": "Actor",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Scatman_Crothers_-_Southern_Campus_1960_crop.jpg/330px-Scatman_Crothers_-_Southern_Campus_1960_crop.jpg"
+      },
+      { 
+        "name": "Barry Nelson",
+        "born":"April 16, 1917",
+        "nation": "California, U.S.",
+        "job": "Actor",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Barry_Nelson_1962.jpg"
+      },
+      { 
+        "name": "Philip Stone",
+        "born":"14 April 1924",
+        "nation": "Yorkshire, England",
+        "job": "Actor",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/PhilipStoneAClockworkOrane.png/330px-PhilipStoneAClockworkOrane.png"
+      },
+      { 
+        "name": "Joe Turkel ",
+        "born":"July 15, 1927",
+        "nation":"New York, U.S",
+        "job": "Actor",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVYKCXjGJbL-IfddoKBnHoPVpxrCMZqnIP6A&usqp=CAU"
+      },
+      { 
+        "name": "Jessica Chastain",
+        "born":"March 24, 1977",
+        "nation": "California, U.S.",
+        "job": "Actor",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Jessica_Chastain_at_2015_Empire_Awards.jpg/330px-Jessica_Chastain_at_2015_Empire_Awards.jpg"
+      },
+      { 
+        "name": "Jessica Chastain",
+        "born":"March 24, 1977",
+        "nation": "California, U.S.",
+        "job": "Actor",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Jessica_Chastain_at_2015_Empire_Awards.jpg/330px-Jessica_Chastain_at_2015_Empire_Awards.jpg"
+      },
+      { 
+        "name": "Jessica Chastain",
+        "born":"March 24, 1977",
+        "nation": "California, U.S.",
+        "job": "Actor",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Jessica_Chastain_at_2015_Empire_Awards.jpg/330px-Jessica_Chastain_at_2015_Empire_Awards.jpg"
+      },
+      { 
+        "name": "Jessica Chastain",
+        "born":"March 24, 1977",
+        "nation": "California, U.S.",
+        "job": "Actor",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Jessica_Chastain_at_2015_Empire_Awards.jpg/330px-Jessica_Chastain_at_2015_Empire_Awards.jpg"
+      },
+      { 
+        "name": "Jessica Chastain",
+        "born":"March 24, 1977",
+        "nation": "California, U.S.",
+        "job": "Actor",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Jessica_Chastain_at_2015_Empire_Awards.jpg/330px-Jessica_Chastain_at_2015_Empire_Awards.jpg"
+      },
+      { 
+        "name": "Jessica Chastain",
+        "born":"March 24, 1977",
+        "nation": "California, U.S.",
+        "job": "Actor",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Jessica_Chastain_at_2015_Empire_Awards.jpg/330px-Jessica_Chastain_at_2015_Empire_Awards.jpg"
+      },
+      { 
+        "name": "Jessica Chastain",
+        "born":"March 24, 1977",
+        "nation": "California, U.S.",
+        "job": "Actor",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Jessica_Chastain_at_2015_Empire_Awards.jpg/330px-Jessica_Chastain_at_2015_Empire_Awards.jpg"
+      },
+      { 
+        "name": "Jessica Chastain",
+        "born":"March 24, 1977",
+        "nation": "California, U.S.",
+        "job": "Actor",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Jessica_Chastain_at_2015_Empire_Awards.jpg/330px-Jessica_Chastain_at_2015_Empire_Awards.jpg"
+      },
+      { 
+        "name": "Jessica Chastain",
+        "born":"March 24, 1977",
+        "nation": "California, U.S.",
+        "job": "Actor",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Jessica_Chastain_at_2015_Empire_Awards.jpg/330px-Jessica_Chastain_at_2015_Empire_Awards.jpg"
+      },
+      { 
+        "name": "Jessica Chastain",
+        "born":"March 24, 1977",
+        "nation": "California, U.S.",
+        "job": "Actor",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Jessica_Chastain_at_2015_Empire_Awards.jpg/330px-Jessica_Chastain_at_2015_Empire_Awards.jpg"
+      },
+      { 
+        "name": "Jessica Chastain",
+        "born":"March 24, 1977",
+        "nation": "California, U.S.",
+        "job": "Actor",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Jessica_Chastain_at_2015_Empire_Awards.jpg/330px-Jessica_Chastain_at_2015_Empire_Awards.jpg"
+      },
+      { 
+        "name": "Jessica Chastain",
+        "born":"March 24, 1977",
+        "nation": "California, U.S.",
+        "job": "Actor",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Jessica_Chastain_at_2015_Empire_Awards.jpg/330px-Jessica_Chastain_at_2015_Empire_Awards.jpg"
+      },
+      { 
+        "name": "Jessica Chastain",
+        "born":"March 24, 1977",
+        "nation": "California, U.S.",
+        "job": "Actor",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Jessica_Chastain_at_2015_Empire_Awards.jpg/330px-Jessica_Chastain_at_2015_Empire_Awards.jpg"
+      },
+      { 
+        "name": "Jessica Chastain",
+        "born":"March 24, 1977",
+        "nation": "California, U.S.",
+        "job": "Actor",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Jessica_Chastain_at_2015_Empire_Awards.jpg/330px-Jessica_Chastain_at_2015_Empire_Awards.jpg"
+      },
+      { 
+        "name": "Jessica Chastain",
+        "born":"March 24, 1977",
+        "nation": "California, U.S.",
+        "job": "Actor",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Jessica_Chastain_at_2015_Empire_Awards.jpg/330px-Jessica_Chastain_at_2015_Empire_Awards.jpg"
+      },
+      { 
+        "name": "Jessica Chastain",
+        "born":"March 24, 1977",
+        "nation": "California, U.S.",
+        "job": "Actor",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Jessica_Chastain_at_2015_Empire_Awards.jpg/330px-Jessica_Chastain_at_2015_Empire_Awards.jpg"
+      },
+      { 
+        "name": "Jessica Chastain",
+        "born":"March 24, 1977",
+        "nation": "California, U.S.",
+        "job": "Actor",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Jessica_Chastain_at_2015_Empire_Awards.jpg/330px-Jessica_Chastain_at_2015_Empire_Awards.jpg"
+      },
+      { 
+        "name": "Jessica Chastain",
+        "born":"March 24, 1977",
+        "nation": "California, U.S.",
+        "job": "Actor",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Jessica_Chastain_at_2015_Empire_Awards.jpg/330px-Jessica_Chastain_at_2015_Empire_Awards.jpg"
+      },
+      { 
+        "name": "Jessica Chastain",
+        "born":"March 24, 1977",
+        "nation": "California, U.S.",
+        "job": "Actor",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Jessica_Chastain_at_2015_Empire_Awards.jpg/330px-Jessica_Chastain_at_2015_Empire_Awards.jpg"
+      },
+      { 
+        "name": "Jessica Chastain",
+        "born":"March 24, 1977",
+        "nation": "California, U.S.",
+        "job": "Actor",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Jessica_Chastain_at_2015_Empire_Awards.jpg/330px-Jessica_Chastain_at_2015_Empire_Awards.jpg"
+      }
+
+    ]
+  }

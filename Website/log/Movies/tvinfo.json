@@ -1,0 +1,54 @@
+{
+    "tv": [
+      {
+        "name": "Chernobyl",
+        "img": "https://upload.wikimedia.org/wikipedia/en/a/a7/Chernobyl_2019_Miniseries.jpg",
+        "hre":"chernobyl.php"
+      },
+      { 
+        "name": "The Queen's Gambit",
+        "img" : "https://m.media-amazon.com/images/M/MV5BM2EwMmRhMmUtMzBmMS00ZDQ3LTg4OGEtNjlkODk3ZTMxMmJlXkEyXkFqcGdeQXVyMjM5ODk1NDU@._V1_UX182_CR0,0,182,268_AL_.jpg",
+          "hre":"queen'sgambit.php"
+      },
+      {
+         "name": "Planet Earth",
+          "img" : "https://m.media-amazon.com/images/M/MV5BNmZlYzIzMTItY2EzYS00YTEyLTg0ZjEtMDMzZjM3ODdhN2UzXkEyXkFqcGdeQXVyNjI0MDg2NzE@._V1_.jpg",
+          "hre":"planetearth.php"
+      },
+      {
+        "name": "Ragnarok",
+        "img" : "https://m.media-amazon.com/images/M/MV5BODM3NTZkZTUtYzEyYS00NjEyLTg2NjEtNDhlMjYwY2ZkNGUzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY1200_CR90,0,630,1200_AL_.jpg",
+          "hre":"ragnarok.php"
+    },
+    {
+        "name": "Into the Night",
+        "img" : "https://upload.wikimedia.org/wikipedia/en/6/61/Poster_for_Netflix_series_Into_the_Night.png",
+        "hre":"intothenight.php"
+    },
+    {
+        "name": "Scam 1992",
+        "img" : "https://m.media-amazon.com/images/M/MV5BNjgxZTMxNmQtZGFkZS00NDUyLTllMzYtOTE0ZjdlMjM1ZWU0XkEyXkFqcGdeQXVyMTAyMTE1MDA1._V1_UY1200_CR85,0,630,1200_AL_.jpg",
+        "hre":"scam1992.php"
+    },
+    {
+        "name": "TVF Pitchers",
+        "img" : "https://static1.tvfplay.com/cpp%2Fs3fs-public%2Ftvf%2Fseries%2F1%2Foriginal%2F16_9%2Fen%2Faspect_xl_large%2F945a9d625482df6dc9ec9127ff017d3d_Series_Native_cmprsd_pitchers-504.jpg",
+        "hre":"tvfpitchers.php"
+    },
+    {
+        "name": "The Last Dance",
+        "img" : "https://upload.wikimedia.org/wikipedia/en/thumb/1/14/The_Last_Dance_2020.jpg/250px-The_Last_Dance_2020.jpg",
+        "hre":"thelastdance.php"
+    },
+    {
+        "name": "The Spy",
+        "img" : "https://m.media-amazon.com/images/M/MV5BM2ZmYjUxZDYtMmZlMi00YjlkLTkwNTItMjcxZDRlOTI3ZTNmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+        "hre":"thespy.php"
+    },
+    {
+        "name": "Maniac",
+        "img" : "https://m.media-amazon.com/images/M/MV5BMDMwOTgyNzYtNWI2Zi00MDcwLWEyNmUtMGQ5YzA3ZTljMTA2XkEyXkFqcGdeQXVyNjU2ODM5MjU@._V1_UY1200_CR99,0,630,1200_AL_.jpg",
+        "hre":"maniac.php"
+    }
+    ]
+}

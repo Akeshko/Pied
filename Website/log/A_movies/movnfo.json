@@ -1,0 +1,84 @@
+{
+    "Movies": [
+      {
+        "name": "A SEPERATION",
+        "img": "https://m.media-amazon.com/images/M/MV5BN2JmMjViMjMtZTM5Mi00ZGZkLTk5YzctZDg5MjFjZDE4NjNkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+        "hre":"../Movies/aseperation.php"
+      },
+      { 
+        "name": "1917",
+        "img" : "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/62077a91502251.5e332b479a8d3.jpg",
+           "hre":"../Movies/1917.php"
+      },
+      {
+         "name": "BURNING",
+          "img" : "https://m.media-amazon.com/images/M/MV5BMWNmYjI1M2UtNDdkNi00MTgwLWFiZmYtODcxNWZhM2Y2NWFkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+           "hre":"../Movies/burning.php"
+      },
+      {
+        "name": "CAST AWAY",
+        "img" : "https://m.media-amazon.com/images/M/MV5BN2Y5ZTU4YjctMDRmMC00MTg4LWE1M2MtMjk4MzVmOTE4YjkzXkEyXkFqcGdeQXVyNTc1NTQxODI@._V1_UY1200_CR90,0,630,1200_AL_.jpg",
+           "hre":"../Movies/castaway.php"
+    },
+    {
+        "name": "GONE GIRL",
+        "img" : "https://m.media-amazon.com/images/M/MV5BMTk0MDQ3MzAzOV5BMl5BanBnXkFtZTgwNzU1NzE3MjE@._V1_.jpg",
+         "hre":"../Movies/gonegirl.php"
+    },
+    {
+        "name": "Her",
+        "img" : "https://m.media-amazon.com/images/M/MV5BMjA1Nzk0OTM2OF5BMl5BanBnXkFtZTgwNjU2NjEwMDE@._V1_UY1200_CR90,0,630,1200_AL_.jpg",
+         "hre":"../Movies/her.php"
+    },
+    {
+        "name": "ROOM",
+        "img" : "https://m.media-amazon.com/images/M/MV5BMjE4NzgzNzEwMl5BMl5BanBnXkFtZTgwMTMzMDE0NjE@._V1_.jpg",
+         "hre":"../Movies/room.php"
+    },
+    {
+        "name": "STAR WARS",
+        "img" : "https://m.media-amazon.com/images/M/MV5BNzVlY2MwMjktM2E4OS00Y2Y3LWE3ZjctYzhkZGM3YzA1ZWM2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+         "hre":"../Movies/starwars.php"
+    },
+    {
+        "name": "UDAAN",
+        "img" : "https://m.media-amazon.com/images/M/MV5BNzgxMzExMzUwNV5BMl5BanBnXkFtZTcwMDc2MjUwNA@@._V1_.jpg",
+         "hre":"../Movies/udaan.php"
+    },
+    {
+        "name": "3 idiots",
+        "img" : "https://m.media-amazon.com/images/M/MV5BMzY2MzgxNDI5MV5BMl5BanBnXkFtZTcwMzk2MzkwMw@@._V1_.jpg",
+         "hre":"../Movies/3idiots.php"
+    },
+        {
+            "name": "Avengers Endgame",
+            "img": "../mov1.jpg",
+            "hre": "Moviie.php"
+        },
+        {
+            "name": "The Dark Knight",
+            "img": "../mov2.jpg",
+            "hre": "batman.php"
+        },
+        {
+            "name": "Interstellar",
+            "img": "../mov3.jpg",
+            "hre": "interstellar.php"
+        },
+        {
+            "name": "Deadpoool 2",
+            "img": "../mov4.jpg",
+            "hre": "deadpool2.php"
+        },
+        {
+            "name": "The Shining",
+            "img": "../mov5.jpg",
+            "hre": "shining.php"
+        },
+        {
+            "name": "World War Z",
+            "img": "../mov6.jpg",
+            "hre": "wwz.php"
+        }
+    ]
+}

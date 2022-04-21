@@ -1,0 +1,629 @@
+
+{
+    "Actors": [
+      {
+        "name": "Joe Russo",
+        "born":"18 July 1971",
+        "nation": "Syracuse, NY",
+        "job": "Director",
+        "img": "https://www.gstatic.com/tv/thumb/persons/303029/303029_v9_bb.jpg"
+      },
+      { 
+        "name": "Anthony Russo",
+        "born":"18 July 1971",
+        "nation": "Syracuse, NY",
+        "job": "Director",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Anthony_Russo_%2848385343301%29_%28cropped%29.jpg"
+      },
+        {
+        "name":"Asghar Farhadi",
+        "born":"May 7 1972",
+        "nation":"Isfahan, Iran",
+        "job":"Writer, Director",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/3/36/Asghar_Farhadi_in_2018-2.jpg"
+    },
+   
+    {
+        "name":"Peyman Maadi",
+        "born":"1970",
+        "nation":"Iran",
+        "job":"Actor, Screenwriter",
+        "img":"https://m.media-amazon.com/images/M/MV5BMTQzMTI2NDQ5NV5BMl5BanBnXkFtZTgwMjM3Mjc1MjE@._V1_.jpg"
+    },
+    {
+        "name":"Leila Hatami",
+        "born":"October 1, 1972",
+        "nation":"Tehran, Iran",
+        "job":"Actress",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/f/f6/Leila_Hatami_20190204_03_%28cropped%29.jpg"
+    },
+    {
+        "name":"Sareh Bayat",
+        "born":"October 6, 1979",
+        "nation":"Tehran, Iran",
+        "job":"Actress",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/8/81/Sareh_Bayat_1_%28cropped%29.jpg"
+    },
+    {
+        "name":"Shahab Hosseini",
+        "born":"February 3, 1974",
+        "nation":"Iran",
+        "job":"Actor",
+        "img":"https://financialtribune.com/sites/default/files/field/image/17january/12_shahab.jpg"
+    },
+    {
+        "name":"Sam Mendes",
+        "born":"1 Aug 1965",
+        "nation":"UK",
+        "job":"Director, Producer",
+        "img":"https://m.media-amazon.com/images/M/MV5BNTgzODMyMDUwNF5BMl5BanBnXkFtZTcwNzEyMjAyMg@@._V1_UY1200_CR85,0,630,1200_AL_.jpg"
+    },
+        {
+         "name":"Sam Mendes",
+        "born":"1 Aug 1965",
+        "nation":"UK",
+        "job":"Director, Producer",
+        "img":"https://m.media-amazon.com/images/M/MV5BNTgzODMyMDUwNF5BMl5BanBnXkFtZTcwNzEyMjAyMg@@._V1_UY1200_CR85,0,630,1200_AL_.jpg"
+    },
+        {
+        "name":"Pippa Harris",
+        "born":"21 March 1965",
+        "nation":"UK",
+        "job":"Producer",
+        "img":"https://m.media-amazon.com/images/M/MV5BNjEzODg3MjM5M15BMl5BanBnXkFtZTcwMjA5NTc5OA@@._V1_.jpg"
+    },
+        {
+        "name":"George Mackay",
+        "born":"13 Mar 1992",
+        "nation":"UK",
+        "job":"Actor",
+        "img":"https://m.media-amazon.com/images/M/MV5BMTQ4NjQ0NTEwOV5BMl5BanBnXkFtZTgwODQyMzIyMTI@._V1_.jpg"
+    },
+        {
+        "name":"Dean-Charles Chapman",
+        "born":"7 September 1997",
+        "nation":"UK",
+        "job":"Actor",
+        "img":"https://m.media-amazon.com/images/M/MV5BNzM2Mjc2NzAzMV5BMl5BanBnXkFtZTgwMjE0MzAwNTE@._V1_UY317_CR12,0,214,317_AL_.jpg"
+    },
+        {
+        "name":"Chang-dong Lee",
+        "born":"1 April 1954",
+        "nation":"South Korea",
+        "job":"Director, Writer",
+        "img":"https://m.media-amazon.com/images/M/MV5BMTc5NjIwOTc0MV5BMl5BanBnXkFtZTcwMzQ2Mzc3NA@@._V1_.jpg"
+    },
+        {
+        "name":"Yoo Ah-in",
+        "born":"6 October 1986",
+        "nation":"South Korea",
+        "job":"Actor",
+        "img":"https://m.media-amazon.com/images/M/MV5BMTZiOWIzN2YtYjgxMi00ZmY0LThhNWQtNWEwNDU2Mjg4OTZmXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_UY1200_CR115,0,630,1200_AL_.jpg"
+    },
+        {
+        "name":"Steven Yeun",
+        "born":"21 Dec 1983",
+        "nation":"South Korea",
+        "job":"Actor",
+        "img":"https://m.media-amazon.com/images/M/MV5BNjE4YmU2MTItMjE0ZC00Y2YxLWJkYWMtOTNiMTc0MDFjNjJlXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg"
+    },
+        {
+        "name":"Jeon Jong-seo",
+        "born":"5 July 1994",
+        "nation":"South Korea",
+        "job":"Actor",
+        "img":"https://m.media-amazon.com/images/M/MV5BMTU4MDEzMTM2OF5BMl5BanBnXkFtZTgwNjM5MDM5NjM@._V1_.jpg"
+    },
+        {
+        "name":"Robert Zemeckis",
+        "born":"14 May 1952",
+        "nation":"US",
+        "job":"Producer, Director",
+        "img":"https://m.media-amazon.com/images/M/MV5BMTgyMTMzMDUyNl5BMl5BanBnXkFtZTcwODA0ODMyMw@@._V1_.jpg"
+    },
+        {
+        "name":"William Broyles Jr",
+        "born":"8 Oct 1944",
+        "nation":"US",
+        "job":"Writer",
+        "img":"https://m.media-amazon.com/images/M/MV5BMjA4MjUzMjA2Ml5BMl5BanBnXkFtZTYwNTkxNTk1._V1_UY317_CR11,0,214,317_AL_.jpg"
+    },
+        {
+        "name":"Tom Hanks",
+        "born":"9 July 1956",
+        "nation":"US",
+        "job":"Actor, Producer",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/a/a9/Tom_Hanks_TIFF_2019.jpg"
+    },
+        {
+        "name":"David Fincher",
+        "born":"28 Aug 1952",
+        "nation":"US",
+        "job":"Director, Writer",
+        "img":"https://m.media-amazon.com/images/M/MV5BMTc1NDkwMTQ2MF5BMl5BanBnXkFtZTcwMzY0ODkyMg@@._V1_UY1200_CR76,0,630,1200_AL_.jpg"
+    },
+        {
+        "name":"Gillian Flynn",
+        "born":"24 Feb 1971",
+        "nation":"US",
+        "job":"Writer",
+        "img":"https://images.gr-assets.com/authors/1232123231p8/2383.jpg"
+    },
+        {
+        "name":"Cean Chaffin",
+        "born":"26 June 1957",
+        "nation":"US",
+        "job":"Producer",
+        "img":"https://vignette.wikia.nocookie.net/oscars/images/4/4e/CeanChaffin.jpg/revision/latest/scale-to-width-down/340?cb=20121124145300"
+    },
+        {
+        "name":"Ben Affleck",
+        "born":"15 Aug 1972",
+        "nation":"US",
+        "job":"Actor, Writer, Producer",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/7/70/Ben_Affleck_by_Gage_Skidmore_3.jpg"
+    },
+        {
+        "name":"Rosamund Pike",
+        "born":"29 Jan 1979",
+        "nation":"US",
+        "job":"Actor",
+        "img":"https://m.media-amazon.com/images/M/MV5BNDQ5MDIyMjg3NV5BMl5BanBnXkFtZTgwOTU2NTE0NDM@._V1_.jpg"
+    },
+        {
+        "name":"Spike Jonze",
+        "born":"22 Oct 1969",
+        "nation":"US",
+        "job":"Director, Writer, Producer",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/0/09/Spike_Jonze_Her_Premiere_NYFF_2013_%28cropped%29.jpg"
+    },
+        {
+        "name":"Joaquin Phoenix",
+        "born":"28 Oct 1974",
+        "nation":"US",
+        "job":"Actor",
+        "img":"https://m.media-amazon.com/images/M/MV5BZGMyY2Q4NTEtMWVkZS00NzcwLTkzNmQtYzBlMWZhZGNhMDhkXkEyXkFqcGdeQXVyNjk1MjYyNTA@._V1_UY1200_CR86,0,630,1200_AL_.jpg"
+    },
+        {
+        "name":"Scarlett Johansson",
+        "born":"22 Nov 1984",
+        "nation":"US",
+        "job":"Actor",
+        "img":"https://m.media-amazon.com/images/M/MV5BMTM3OTUwMDYwNl5BMl5BanBnXkFtZTcwNTUyNzc3Nw@@._V1_.jpg"
+    },
+        {
+        "name":"Lenny Abrahamson",
+        "born":"30 Nov 1966",
+        "nation":"US",
+        "job":"Director",
+        "img":"https://m.media-amazon.com/images/M/MV5BMTExMDQyMTQzNjleQTJeQWpwZ15BbWU4MDg0NTk5ODAx._V1_.jpg"
+    },
+        {
+        "name":"Emma Donoghue",
+        "born":"24 Oct 1969",
+        "nation":"US",
+        "job":"Writer",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/e/e3/Irish-Canadian_author_Emma_Donoghue.JPG"
+    },
+        {
+        "name":"Ed Guiney",
+        "born":"18 Feb 1966",
+        "nation":"Ireland",
+        "job":"Producer",
+        "img":"https://m.media-amazon.com/images/M/MV5BYjY5MzhjY2YtYzBjZS00YjFmLTg0ZWQtOTU0ZGViNGE3NTFlXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_UY1200_CR85,0,630,1200_AL_.jpg"
+    },
+        {
+        "name":"Brie Larson",
+        "born":"1 Oct 1989",
+        "nation":"US",
+        "job":"Actor, Director",
+        "img":"https://m.media-amazon.com/images/M/MV5BMjExODkxODU3NF5BMl5BanBnXkFtZTgwNTM0MTk3NjE@._V1_.jpg"
+    },
+        {
+        "name":"Jacob Tremblay",
+        "born":"2006",
+        "nation":"UK",
+        "job":"Actor",
+        "img":"https://m.media-amazon.com/images/M/MV5BOWJiOTg5YzQtOWIzNy00NTdkLWEzNmEtYWFkZmY1NTc2OTk5XkEyXkFqcGdeQXVyMzM0MDI2MTE@._V1_UY1200_CR110,0,630,1200_AL_.jpg"
+    },
+        {
+        "name":"George Lucas",
+        "born":"14 May 1944",
+        "nation":"US",
+        "job":"Director, Writer, Producer",
+        "img":"https://m.media-amazon.com/images/M/MV5BMTA0Mjc0NzExNzBeQTJeQWpwZ15BbWU3MDEzMzQ3MDI@._V1_UY1200_CR91,0,630,1200_AL_.jpg"
+    },
+        {
+        "name":"Mark Hamill",
+        "born":"25 Sept 1951",
+        "nation":"US",
+        "job":"Actor, Producer",
+        "img":"https://m.media-amazon.com/images/M/MV5BOGY2MjI5MDQtOThmMC00ZGIwLWFmYjgtYWU4MzcxOGEwMGVkXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_UY1200_CR753,0,630,1200_AL_.jpg"
+    },
+        {
+        "name":"Harrison Ford",
+        "born":"13 July 1942",
+        "nation":"US",
+        "job":"Actor",
+        "img":"https://m.media-amazon.com/images/M/MV5BMTY4Mjg0NjIxOV5BMl5BanBnXkFtZTcwMTM2NTI3MQ@@._V1_UY1200_CR88,0,630,1200_AL_.jpg"
+    },
+        {
+        "name":"Carrie Fisher",
+        "born":"21 October 1956",
+        "nation":"US",
+        "job":"Actor, Comedian",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/0/03/Carrie_Fisher_2013-a_straightened.jpg"
+    },
+        {
+        "name":"Vikramaditya Motwane",
+        "born":"6 Dec 1976",
+        "nation":"India",
+        "job":"Director, Writer, Producer",
+        "img":"https://m.media-amazon.com/images/M/MV5BMjYyMTkyOTI3Ml5BMl5BanBnXkFtZTcwMDEwNjM5NA@@._V1_.jpg"
+    },
+        {
+        "name":"Anurag Kashyap",
+        "born":"10 Sept 1972",
+        "nation":"India",
+        "job":"Director, Writer, Producer",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/4/44/Anurag_kashyap_second_trailer.jpg"
+    },
+        {
+        "name":"Rajat Barmecha",
+        "born":"24 April 1989",
+        "nation":"India",
+        "job":"Actor",
+        "img":"https://starsunfolded.com/wp-content/uploads/2016/09/Rajat-Barmecha.jpg"
+    },
+        {
+        "name":"Ronit Roy",
+        "born":"11 Oct 1965",
+        "nation":"India",
+        "job":"Actor",
+        "img":"https://m.media-amazon.com/images/M/MV5BMjQzMjEyMDY1Nl5BMl5BanBnXkFtZTgwNTM3OTczOTE@._V1_.jpg"
+    },
+        {
+        "name":"Rajkumar Hirani",
+        "born":"20 Nov 1962",
+        "nation":"India",
+        "job":"Director, Writer",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Rajkumar_Hirani_2014.jpg/220px-Rajkumar_Hirani_2014.jpg"
+    },
+        {
+        "name":"Vidhu Vinod Chopra",
+        "born":"5 Sept 1952",
+        "nation":"India",
+        "job":"Producer",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Vidhu_Vinod_Chopra_March_2015.jpg/220px-Vidhu_Vinod_Chopra_March_2015.jpg"
+    },
+        {
+        "name":"Aamir Khan",
+        "born":"14 March 1965",
+        "nation":"India",
+        "job":"Actor, Producer",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/b/ba/Aamir_Khan_From_The_NDTV_Greenathon_at_Yash_Raj_Studios_%2811%29.jpg"
+    },
+        {
+        "name":"R.Madhavan",
+        "born":"1 June 1970",
+        "nation":"India",
+        "job":"Actor",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/c/cc/Madhavan_Saala_Khadoos_%28cropped%29.jpg"
+    },
+        {
+        "name":"Sharman Joshi",
+        "born":"28 April 1979",
+        "nation":"India",
+        "job":"Actor",
+        "img":"https://m.media-amazon.com/images/M/MV5BYWE5MWNkYWQtZTZjZS00N2U0LTgzNzMtNzZkMzJmMWYzZWNkXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_.jpg"
+    },
+        {
+        "name":"Johan Renck",
+        "born":"5 Dec 1966",
+        "nation":"Sweden",
+        "job":"Director, Producer",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/9/91/Johan_Renck_2013.jpg"
+    },
+        {
+        "name":"Craig Mazin",
+        "born":"8 April 1971",
+        "nation":"US",
+        "job":"Writer",
+        "img":"https://static.themoscowtimes.com/image/1360/ba/TASS_31429831.jpg"
+    },
+        {
+        "name":"Jessie Buckley",
+        "born":"28 Dec 1989",
+        "nation":"Ireland",
+        "job":"Actor, Singer",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Jessie_Buckley_2019.jpg"
+    },
+        {
+        "name":"Jared Harris",
+        "born":"24 Aug 1961",
+        "nation":"US",
+        "job":"Actor",
+        "img":"https://m.media-amazon.com/images/M/MV5BMjE5NDQ3MDYwM15BMl5BanBnXkFtZTcwNTE5MjQ1Nw@@._V1_.jpg"
+    },
+        {
+        "name":"Stellan Skarsgard",
+        "born":"13 June 1951",
+        "nation":"Sweden",
+        "job":"Actor",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/0/0a/Stellan_Skarsg%C3%A5rd_at_the_2017_Berlinalevds.jpg"
+    },
+        {
+        "name":"Scott Frank",
+        "born":"10 March 1960",
+        "nation":"US",
+        "job":"Writer",
+        "img":"https://m.media-amazon.com/images/M/MV5BMTY0MTc5OTQwMV5BMl5BanBnXkFtZTYwODgxMDY0._V1_UY317_CR9,0,214,317_AL_.jpg"
+    },
+        {
+        "name":"Mick Aniceto",
+        "born":"-",
+        "nation":"-",
+        "job":"-",
+        "img":"-"
+    },
+        {
+        "name":"Anya Taylor-Joy",
+        "born":"16 April 1996",
+        "nation":"US, Brazil, Argentina",
+        "job":"Actor",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/9/9a/Anya_Taylor-Joy_by_Gage_Skidmore.jpg"
+    },
+        {
+        "name":"Chloe Pirrie",
+        "born":"25 Aug 1987",
+        "nation":"Scotland",
+        "job":"Actor",
+        "img":"https://m.media-amazon.com/images/M/MV5BYThmOWQ0MWMtMmE1Yy00MGYzLWIxNDctYjQwNjgyZGE5YWYwXkEyXkFqcGdeQXVyMjkwMTE4NTI@._V1_UY1200_CR85,0,630,1200_AL_.jpg"
+    },
+        {
+        "name":"Bill Camp",
+        "born":"22 October 1964",
+        "nation":"US",
+        "job":"Character Actor",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/4/47/Bill_Camp_%2851526%29.jpg"
+    },
+        {
+        "name":"Alastair Fothergill",
+        "born":"10 April 1960",
+        "nation":"UK",
+        "job":"Producer",
+        "img":"https://m.media-amazon.com/images/M/MV5BMTYwODc0MzY1OV5BMl5BanBnXkFtZTgwNTAyNjY3NzM@._V1_.jpg"
+    },
+        {
+        "name":"David Attenborough",
+        "born":"8 May 1926",
+        "nation":"UK",
+        "job":"Broadcaster, Natural Historian",
+        "img":"https://static01.nyt.com/images/2020/10/02/arts/david1/merlin_177964626_bf6d5d2b-0c70-433b-86b7-463d4135d68c-mobileMasterAt3x.jpg"
+    },
+        {
+        "name":"Sigourney Weaver",
+        "born":"8 October 1949",
+        "nation":"US",
+        "job":"Actor",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/e/ed/Sigourney_Weaver_by_Gage_Skidmore.jpg"
+    },
+        {
+        "name":"Mogen Hagedorn",
+        "born":"12 October 1966",
+        "nation":"Norway",
+        "job":"Film Editor",
+        "img":"https://m.media-amazon.com/images/M/MV5BZWEyYTcxYzUtMDRmOC00NTVlLTk0MGYtNTJmOWQ4ODY2MjEzXkEyXkFqcGdeQXVyNDM5Njk2MzI@._V1_.jpg"
+    },
+        {
+        "name":"Adam Price",
+        "born":"7 May 1967",
+        "nation":"Denmark",
+        "job":"Writer",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Adam_Price_2016_%28cropped%29.jpg/220px-Adam_Price_2016_%28cropped%29.jpg"
+    },
+        {
+        "name":"Stine Meldgaard Madsen",
+        "born":"17 Aug 1972",
+        "nation":"Denmark",
+        "job":"Producer",
+        "img":"https://lh3.googleusercontent.com/proxy/29PB0ncSMjIW0pxOHsmpGWQo4qG-okwpr900Svvj1552eho9NFIjfYE4npbW-V6cC0cRogJFG9S8-gXxsHStkckpxl3JQ-rtpyBi8HroHlDPNtz_y8BIYgkAO1d7vwt4ObKuCgdI4g"
+    },
+        {
+        "name":"David Stakston",
+        "born":"22 Nov 1999",
+        "nation":"US",
+        "job":"Actor",
+        "img":"https://static.wikia.nocookie.net/ragnarok-netflix/images/2/2f/David_Stakston.jpeg/revision/latest?cb=20200106084943"
+    },
+        {
+        "name":"Jonas Strand Gravli",
+        "born":"-",
+        "nation":"Norway",
+        "job":"Actor",
+        "img":"https://m.media-amazon.com/images/M/MV5BOTY3YzAxM2YtNDZiMS00NDBmLWI0OGMtODFjMGUyMzdkODZiXkEyXkFqcGdeQXVyNzkyMTI0NTg@._V1_UY1200_CR563,0,630,1200_AL_.jpg"
+    },
+        {
+        "name":"Herman Tommeraas",
+        "born":"2 April 1997",
+        "nation":"Norway",
+        "job":"Actor, Producer",
+        "img":"https://m.media-amazon.com/images/M/MV5BYTc2OThjY2QtNWQ4Mi00OGVjLWE5YTQtMWJjZGUxMDIyMDZmXkEyXkFqcGdeQXVyMTEyMTQ1NDk2._V1_.jpg"
+    },
+        {
+        "name":"Inti Calfat",
+        "born":"-",
+        "nation":"Belgium",
+        "job":"Director",
+        "img":"https://m.media-amazon.com/images/M/MV5BM2ViMTRmYzYtY2FlNi00OTFlLWEyMTctMDcyOWQyNzk3ZjkyXkEyXkFqcGdeQXVyMTUyNTQ5MDY@._V1_.jpg"
+    },
+        {
+        "name":"Jacek Dukaj",
+        "born":"30 July 1974",
+        "nation":"Poland",
+        "job":"Writer",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/d/d0/Jacek_Dukaj_by_Anna_Zemanek_2009.jpg"
+    },
+        {
+        "name":"DJ Talbot",
+        "born":"-",
+        "nation":"Poland",
+        "job":"Producer",
+        "img":"-"
+    },
+        {
+        "name":"Pauline Etienne",
+        "born":"26 June 1989",
+        "nation":"Belgium",
+        "job":"Actor",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/f/fc/Pauline_Etienne_Cabourg_2014.jpg"
+    },
+        {
+        "name":"Laurent Capelluto",
+        "born":"16 March 1971",
+        "nation":"Belgium",
+        "job":"Actor",
+        "img":"https://m.media-amazon.com/images/M/MV5BMTU4MzE2NzQ1Ml5BMl5BanBnXkFtZTcwNzc0OTM4Nw@@._V1_UY1200_CR587,0,630,1200_AL_.jpg"
+    },
+        {
+        "name":"Mehmet Kurtulus",
+        "born":"27 April 1972",
+        "nation":"Turkey",
+        "job":"Actor",
+        "img":"https://m.media-amazon.com/images/M/MV5BNTdiNDJiYWQtNjUzMS00ZWQ2LWJhNjQtNTE0YWMyNTI5ODg4XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg"
+    },
+        {
+        "name":"Hansal Mehta",
+        "born":"29 April 1968",
+        "nation":"India",
+        "job":"Director, Writer, Producer",
+        "img":"https://images.firstpost.com/wp-content/uploads/large_file_plugin/2020/10/1603520767_hansalmehta640.jpg"
+    },
+        {
+        "name":"Saurav Dey",
+        "born":"-",
+        "nation":"India",
+        "job":"Writer",
+        "img":"-"
+    },
+        {
+        "name":"Pratik Gandhi",
+        "born":"29 April 1980",
+        "nation":"India",
+        "job":"Actor",
+        "img":"https://cdn.siasat.com/wp-content/uploads/2020/07/Pratik-Gandhi-1200x900.jpg"
+    },
+        {
+        "name":"Shreya Dhanwanthary",
+        "born":"30 Nov 1988",
+        "nation":"India",
+        "job":"Actor",
+        "img":"https://m.media-amazon.com/images/M/MV5BNTllNTIyNWItMzVkZS00ZDMyLWFlMWQtZTBlMzY1ZTViNDc3XkEyXkFqcGdeQXVyNDAzNDk0MTQ@._V1_.jpg"
+    },
+        {
+        "name":"Anjali Barot",
+        "born":"-",
+        "nation":"India",
+        "job":"Actor",
+        "img":"https://infoaboutcelebrities.com/wp-content/uploads/2019/07/Anjali6.jpg"
+    },
+        {
+        "name":"Amit Golani",
+        "born":"-",
+        "nation":"India",
+        "job":"Director",
+        "img":"https://wikiwiki.in/wp-content/uploads/2018/10/Amit-Golani-TVF-Director.jpg"
+    },
+        {
+        "name":"Arunabh Kumar",
+        "born":"26 Nov 1982",
+        "nation":"India",
+        "job":"Director, Actor, Producer",
+        "img":"https://pbs.twimg.com/profile_images/1138469677758406662/l3Dgk0Oo_400x400.jpg"
+    },
+        {
+        "name":"Naveen Kasturia",
+        "born":"26 Jan 1985",
+        "nation":"India",
+        "job":"Actor, Director",
+        "img":"https://m.media-amazon.com/images/M/MV5BMTUzOTY3MzEwMV5BMl5BanBnXkFtZTgwMDA3NzIxMDI@._V1_UY317_CR51,0,214,317_AL_.jpg"
+    },
+        {
+        "name":"Jitendra Kumar",
+        "born":"1 Sept 1990",
+        "nation":"India",
+        "job":"Actor",
+        "img":"https://static.toiimg.com/thumb/73422296.cms?width=170&height=240"
+    },
+        {
+        "name":"Jason Hehir",
+        "born":"29 Sept 1976",
+        "nation":"US",
+        "job":"Director, Producer",
+        "img":"https://img.bleacherreport.net/img/images/photos/003/866/427/hi-res-cc02e2ef4641729a6c677b0cefb6c6ec_crop_north.jpg?1588507554&w=3072&h=2048"
+    },
+        {
+        "name":"Nina Krstic",
+        "born":"-",
+        "nation":"US",
+        "job":"Cinematographer",
+        "img":"https://m.media-amazon.com/images/M/MV5BZDVlNWMxMGItZGNkYS00NTg5LThmZTItNDE1ZDFmMWQwOTUyXkEyXkFqcGdeQXVyMzIzNzkxODg@._V1_.jpg"
+    },
+        {
+        "name":"Phil Jackson",
+        "born":"17 Sept 1945",
+        "nation":"US",
+        "job":"Basketball player, Coach",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/5/5a/Phil_Jackson_3_cropped.jpg"
+    },
+        {
+        "name":"Michael Jordan",
+        "born":"17 Feb 1963",
+        "nation":"US",
+        "job":"Basketball Player",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/a/ae/Michael_Jordan_in_2014.jpg"
+    },
+        {
+        "name":"Gideon Raff",
+        "born":"10 Sept 1972",
+        "nation":"Israel",
+        "job":"Director",
+        "img":"https://m.media-amazon.com/images/M/MV5BMTY0MzM4NDkxN15BMl5BanBnXkFtZTcwNDA5Nzg5MQ@@._V1_UY1200_CR415,0,630,1200_AL_.jpg"
+    },
+        {
+        "name":"Sacha Baron Cohen",
+        "born":"13 Oct 1971",
+        "nation":"US",
+        "job":"Actor, Comedian, Writer, Producer",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/4/46/Sacha_Baron_Cohen%2C_2011.jpg"
+    },
+        {
+        "name":"Hadar Ratzon Rotem",
+        "born":"22 Feb 1978",
+        "nation":"Israel",
+        "job":"Actor",
+        "img":"https://m.media-amazon.com/images/M/MV5BMWFmNzA5YTYtYWNjYi00YWZhLTgxYmEtOTIwN2JlNmQwZjI2XkEyXkFqcGdeQXVyMjMyMzI4MzY@._V1_UY1200_CR98,0,630,1200_AL_.jpg"
+    },
+        {
+        "name":"Cary Joji Fukunaga",
+        "born":"10 July 1977",
+        "nation":"US",
+        "job":"Director",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/8/81/Maniac_UK_premiere_%28Fukunaga%29.jpg"
+    },
+        {
+        "name":"Jonah Hill",
+        "born":"20 Dec 1983",
+        "nation":"US",
+        "job":"Actor, Director, Writer, Comedian",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/e/e1/Jonah_Hill-4939_%28cropped%29.jpg"
+    },
+        {
+        "name":"Emma Stone",
+        "born":"6 Nov 1988",
+        "nation":"US",
+        "job":"Actor",
+        "img":"https://m.media-amazon.com/images/M/MV5BMjI4NjM1NDkyN15BMl5BanBnXkFtZTgwODgyNTY1MjE@._V1_.jpg"
+    }
+    ]
+  }
